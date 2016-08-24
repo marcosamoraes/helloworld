@@ -8,5 +8,6 @@ namespace HelloWorldWeb.Models
 {
     class Pessoa
     {
+        public string Nome { get; set; }
     }
 }
